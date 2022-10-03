@@ -3,8 +3,11 @@
 ## Table of Contents
 
 [About Me](#about-me)
+
 [Projects](#projects)
+
 [Course Goals](#course-goals)
+
 [Contact](#contact)
 
 ## About Me
