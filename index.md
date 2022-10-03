@@ -44,9 +44,9 @@ For more information on the app and the team's mission, visit [SDSC Wiki](https:
 ## Course Goals
 
 In CSE 110, I look forward to gain further experience in creating an application by colloborating with my teammates. As the quarter continues, I hope to:
-- [ ] learn HTML and CSS within applications.
-- [ ] develop my skillset in team colloboration.
-- [ ] maintain a healthy balance between programming and taking breaks.
+- [ ]  learn HTML and CSS within applications.
+- [ ]  develop my skillset in team colloboration.
+- [ ]  maintain a healthy balance between programming and taking breaks.
 
 ## Contact
 
