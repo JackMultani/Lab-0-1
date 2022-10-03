@@ -27,7 +27,8 @@ Furthermore, from least to most favorite, I have experience in the following pro
 ## Projects
 
 ![SDSC](https://www.sdsc.edu/assets/images/logos/sdsclogo-plusname-horiz-red.jpg)
-[Image Repo](https://github.com/JackMultani/Lab-0-1/blob/main/sdsc.jpg)
+[Relative Link](https://github.com/JackMultani/Lab-0-1/blob/main/sdsc.jpg)
+
 Over the past summer, I interned at the **San Diego Supercomputer Center**. The program's goal was to help developers
 > practice developing applications in a real-world agile development model.
  
