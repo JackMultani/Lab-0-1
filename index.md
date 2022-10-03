@@ -1,5 +1,5 @@
 # Jack Multani
-![Me](https://www.sdsc.edu/assets/images/logos/sdsclogo-plusname-horiz-red.jpg)
+![Me](https://media-exp1.licdn.com/dms/image/C5603AQFMtAffKUDUtQ/profile-displayphoto-shrink_400_400/0/1651258956349?e=1670457600&v=beta&t=oJ5ag18MMhSji_aKu4AMqzOJ0j-D0ggxnGawTQ-Blcw)
 ## Table of Contents
 
 [About Me](#about-me)
